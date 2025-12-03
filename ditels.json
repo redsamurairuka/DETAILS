@@ -1,0 +1,8 @@
+{
+    "button" : "Follow US",
+    "footer" : "© 𝗗ᴇᴠɪʟ ᴛᴇᴄʜ ᴍᴅ ᴡᴀ ʙᴏᴛ ᴠ1.0.0\n*_• Mᴀᴅᴇ Bʏ Cʏʙᴇʀ Lᴏᴋᴜ Aꜱʜᴜᴜ Oꜰᴄ 👨‍💻_*",
+    "imageurl" : "https://files.catbox.moe/hxq1f6.jpg",
+    "header" : "*ʜᴇʟʟᴏ ᴜꜱᴇʀ 👋* ${pushname},\n\n*╭─「 ᴅᴇᴠɪʟ ᴛᴇᴄʜ ᴍᴅ ᴠ1 🎭 」*\n*│⌚ `𝐑ᴜɴ 𝐓ɪᴍᴇ` :* *${runtime(process.uptime())}*\n*│🚀 `𝐑ᴀᴍ 𝐔ꜱᴀɢᴇ` :* *${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(os.totalmem() / 1024 / 1024)}MB*\n*╰───────────┈⊷*\n*╭──「 ${greetings} 」*\n*┋ 🔑 `𝐁ᴏᴛ 𝐍ᴀᴍᴇ` : 𝐃ᴇᴠɪʟ 𝐓ᴇᴄʜ 𝐌ᴅ❗*\n*┋ ⏰ `𝐓ɪᴍᴇ` : ${formattedTime}*\n*┋ 📆 `𝐃ᴀᴛᴇ` : ${formattedDate}*\n*┋ 💀 `𝐂ʀᴇᴀᴛᴇ` : 𝐂ʏʙᴇʀ 𝐋ᴏᴋᴜ 𝐀ꜱʜᴜᴜ 𝐎ꜰᴄ*\n*┋ 🎭 `𝐒ᴜᴘᴘᴏʀᴛ` : 𝐃ᴀʀᴋ 𝐓ᴇᴄʜ 𝐙ᴏɴᴇ 𝐓ᴇᴀᴍ*\n*┋ 🖇️ `𝐏ʀᴇꜰɪx` : ${prefix}*\n*┋ 🚀 `𝐕ᴇʀsɪᴏɴs` : ᴠ1.0.0*\n*╰────────────┈⊷*",
+    "channel" : "https://whatsapp.com/channel/0029Vb4NzEGDOQIP2mJXmo3T",
+    "repo" : ""
+}
